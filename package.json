@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CianMclennan/emojipedia_scraper.git"
+  },
+  "author": "Cian Mclennan <ciankm88@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "jsdom": "^8.4.0"
